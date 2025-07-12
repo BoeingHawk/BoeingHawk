@@ -2,7 +2,6 @@
 🔭 I’m currently working on Salesforce Technology, focusing on Service Cloud and Sales Cloud — specializing in customization and administration.<br><br>👯 I’m looking to collaborate on Salesforce-based open-source projects and community-driven app development initiatives.<br><br>🤝 I’m looking for help with Salesforce integration best practices and performance optimization in Lightning Web Components (LWC).<br><br>🌱 I’m currently learning advanced Salesforce development, including LWC, Apex, and REST API integrations.<br><br>💬 Ask me about Salesforce Service Cloud, Apex programming, Flows, security model design, and data modeling.<br><br>⚡ Fun fact: I once gave up on coding — but came back to build a full Salesforce project that I’m now proud of! 😄
 
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connectwithpulkit@gmail.com) 
 # 📊 GitHub Stats:
